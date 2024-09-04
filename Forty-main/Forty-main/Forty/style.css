@@ -1,0 +1,351 @@
+body{
+    background-repeat: no-repeat;
+    margin: -17px 0px 0px 0px;
+    padding: 0;
+    border: none;
+    font-family: 'Source Sans 3', sans-serif;
+    letter-spacing: 2px;
+}
+#HeaderSection{
+    background-image: url(./images/backgroud.jpg);
+    color: white;
+    width: 100%;
+    height: 500px;
+}
+#BackGround {
+    background: rgb(42,47,74,.9) ;
+    width: 100%;
+    height: 500px;
+}
+#BackGround p i{
+    background-color: transparent;
+    color: white;
+}
+.HeadP2{
+    display: inline-block;
+    margin: 40px 20px 0px 20px ;
+    font-size: 12px;
+    
+}
+#Forty{
+    background-color: white;
+    color: #2a2f4a;
+    padding: 3px;
+}
+#HeadP2 {
+    float: right;
+}
+#HeadP2 i{
+    padding-left: 7px;
+    font-size: 14px;
+}
+
+#HeaderSection p:hover{
+    color: #78c0d8 ;
+}
+#Forty:hover{
+    background-color: #78c0d8;
+    
+}
+#Head {
+    width: 85%;
+    margin: 0 auto;
+    padding-top: 80px;
+}
+#Head h1{
+    border-bottom: 2px solid white;
+    padding-bottom: 30px;
+    font-size: 45px;
+}
+#HeadP{
+    margin: 10px 0px;
+    font-size: 10px ;
+    display: inline-block;
+    
+}
+#HeadP:hover{
+    color: white !important;
+}
+#HeaderSection button{
+    background-color: transparent;
+    padding: 0px 10px 5px 20px;
+    color: white;
+    border: 2px solid white;
+    margin: 10px 0px 0px 20px !important;
+    background-repeat: no-repeat;
+    background-position: right;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+#HeaderSection button span {
+    font-stretch: expanded;
+    font-size: 25px;
+    width: 30px;
+    padding-left: 10px;
+    font-weight: 100;
+    position: relative;
+    height: 10px;
+}
+.ImgS{
+    display: flex;
+    width: 100%;
+    height: 300px;
+}
+#BackImg{
+    background-image: url(./images/pic01.jpg);
+    height: 300px;
+    width: 40%;
+}
+#Img1{
+    background: rgb(121,192,216,.9);
+    height: 300px;
+    width: 100%;
+}
+
+#BackImg2{
+    background-image: url(./images/pic02.jpg);
+    width: 60%;
+    height: 300px;
+}
+#Img2{
+    background: rgb(143,133,193,.9);
+    width: 100%;
+    height: 300px;
+}
+#BackImg3{
+    background-image: url(./images/pic03.jpg);
+    width: 60%;
+    height: 300px;
+}
+#Img3{
+    background: rgb(229,146,138,.9);
+    width: 100%;
+    height: 300px;
+}
+#BackImg4{
+    background-image: url(./images/pic04.jpg);
+    height: 300px;
+    width: 40%;
+}
+#Img4{
+    background: rgb(212,171,134,.9);
+    height: 300px;
+    width: 100%;
+}
+#BackImg5{
+    background-image: url(./images/pic05.jpg);
+    height: 300px;
+    width: 40%;
+}
+#Img5{
+    background: rgb(128,152,208,.9);
+    height: 300px;
+    width: 100%;
+}
+#BackImg6{
+    background-image: url(./images/pic06.jpg);
+    width: 60%;
+    height: 300px;
+}
+#Img6{
+    background: rgb(122,173,149,.9);
+    width: 100%;
+    height: 300px;
+}
+.H3{
+    display: inline-block;
+    margin: 100px 0px 20px 50px;
+    font-weight: 900;
+    letter-spacing: 0px;
+    color: white;
+    
+    /* display: block; */
+}
+.P{
+    display: inline-block;
+    padding: 10px 15px 0px 0px;
+    margin-left: 50px;
+    color: white;
+    font-size: 11px;
+    border-top: 2px solid white;
+}
+#Img1:hover{
+    transition: .2s ease-in-out;
+    background: none;
+    cursor: pointer;
+}
+#Img2:hover{
+    transition: .2s ease-in-out;
+    background: none;
+    cursor: pointer;
+}
+#Img3:hover{
+    transition: .2s ease-in-out;
+    background: none;
+    cursor: pointer;
+}
+#Img4:hover{
+    transition: .2s ease-in-out;
+    background: none;
+    cursor: pointer;
+}
+#Img5:hover{
+    transition: .2s ease-in-out;
+    background: none;
+    cursor: pointer;
+}
+#Img6:hover{
+    transition: .2s ease-in-out;
+    background: none;
+    cursor: pointer;
+}
+#DescSection {
+    letter-spacing: 1px;
+    background-color: #2a2f4a;
+    color: white;
+    padding: 60px 0px 60px 70px;
+}
+
+#DescSection button{
+    background-color: transparent;
+    padding: 0px 10px 5px 20px;
+    color: white;
+    border: 2px solid white;
+    background-repeat: no-repeat;
+    background-position: right;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+#DescSection button span {
+    font-stretch: expanded;
+    font-size: 25px;
+    width: 30px;
+    padding-left: 10px;
+    font-weight: 100;
+    position: relative;
+    height: 10px;
+}
+#DescSection h2{
+    display: inline-block;
+    border-bottom: 2px solid white;
+    padding-bottom: 15px;
+    padding-right: 20px;
+}
+#DescSection p{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+#ContactSection{
+    background-color: #242943;
+    color: white;
+    display: inline-flex;
+    width: 100%;
+}
+#Con1{
+    padding: 50px;
+    width: 60%;
+    border-right: 2px solid #2a2f4a;
+    border-bottom: 2px solid #2a2f4a;
+}
+.TextInput{
+    background-color: #2a2f4a;
+    outline: none;
+    border: none;
+}
+input{
+    width: 300px;
+    padding: 10px;
+}
+
+#TextIn{
+    display: flex;
+}
+#EmailInput{
+    margin-left: 15px;
+}
+textarea{
+    padding: 12px;
+}
+.TextInput:focus{
+    border: 2px solid #78c0d8;
+}
+label{
+font-size: 13px;
+}
+#Con2{
+    width: 40%;
+
+}
+#Con2 div{
+    padding: 40px 0px 40px 50px;
+    border-bottom: 2px solid #2a2f4a;
+}
+#Con2 span{
+    border-bottom: 1px dotted;
+}
+#Con2 span:hover{
+    border-bottom: none;
+    color: #78c0d8;
+    cursor: pointer;
+}
+.fa{
+    border-radius: 360px;
+    color: #242943;
+    background-color: white;
+    padding: 7px;
+    text-align: center;
+    margin-right: 25px;
+}
+#Con2 p{
+    margin-left: 60px;
+}
+#SendBtn{
+    color: #242943;
+    background-color: white;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 15px 25px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+#SendBtn:hover{
+    background-color: #78c0d8;
+}
+#ClearBtn{
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 12px 25px;
+}
+#ClearBtn:hover{
+    color: #78c0d8;
+    border-color: #78c0d8;
+}
+#FooterSection{
+    background-color: #242943;
+    padding: 80px 0px 50px 50px;
+
+}
+#FooterSection ul li{
+    display: inline-block;
+}
+#FooterS li{
+    color: #384765;
+    margin-top: 30px;
+    font-size: 13px;
+}
+#IconS li i:hover{
+    background-color: #78c0d8;
+    cursor: pointer;
+}
+#FooterS span{
+    border-bottom: 1px dotted #384765;
+}
+#FooterS span:hover{
+    border-bottom: none;
+    color: #78c0d8;
+    cursor: pointer;
+}
